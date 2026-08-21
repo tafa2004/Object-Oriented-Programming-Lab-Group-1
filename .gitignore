@@ -1,0 +1,3 @@
+*.class
+.snapshots/
+*.code-workspace
