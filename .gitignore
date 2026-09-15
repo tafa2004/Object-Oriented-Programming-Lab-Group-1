@@ -1,3 +1,5 @@
 *.class
 .snapshots/
 *.code-workspace
+
+**/target/
